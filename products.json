@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Producto 2",
+    "description": "Descripción del Producto 2",
+    "price": 25.99,
+    "thumbnail": "ruta/de/imagen2.jpg",
+    "code": "002",
+    "stock": 50,
+    "id": 2
+  }
+]
